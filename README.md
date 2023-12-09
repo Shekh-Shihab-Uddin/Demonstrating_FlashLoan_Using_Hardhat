@@ -1,6 +1,5 @@
-# Displaying Flashloan Using Hardhat 
-This project demonstrates a basic Flashloan execution. It comes with a sample contract, a test for that contract.
-
+# Demonstrating Flashloan Using Hardhat. 
+This project demonstrates a basic Flashloan execution. It comes with a sample contract, a test for that contract. Executing This FlashLoan Using PancakeSwap and Forking BNB Smart Chain Mainnet.
 -- First set up the environment with harthat
 -- Then created the solidity smartcontract for implementing FLASHLOAN
 -- The Libraries and Interfaces of PancakeSwap Smartcontract
